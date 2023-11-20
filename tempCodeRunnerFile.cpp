@@ -1,0 +1,2 @@
+
+        currentStreakHeads = 0;
